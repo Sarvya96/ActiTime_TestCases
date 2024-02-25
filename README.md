@@ -1,1 +1,1 @@
-All the test Case for the Acti-Time projects 
+All the test Cases for the Acti-Time projects 
