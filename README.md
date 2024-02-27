@@ -1,1 +1,1 @@
-Test Cases for the Acti-Time projects(Not for all modules) 
+Test Cases for Acti-Time project(Not for all modules) 
